@@ -1,0 +1,144 @@
+
+@font-face {
+  font-family: 'Maven Pro';
+  font-style: normal;
+  font-weight: 900;
+  src: url(../css/font/MavenPro-Black.ttf);
+}
+
+@font-face {
+    font-family: 'Vinyl';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../css/font/ufonts.com_vinylregular.ttf);
+}
+
+/*
+* Noto Sans Japanese (japanese) http://www.google.com/fonts/earlyaccess
+ */
+@font-face {
+  font-family: 'Noto Sans CJK Japanese';
+  font-style: normal;
+  font-weight: 100;
+  src: url(../css/font/NotoSansCJKjp-Thin.otf);
+}
+@font-face {
+  font-family: 'Noto Sans CJK Japanese';
+  font-style: normal;
+  font-weight: 200;
+  src: url(../css/font/NotoSansCJKjp-Light.otf);
+}
+@font-face {
+   font-family: 'Noto Sans CJK Japanese';
+   font-style: normal;
+   font-weight: 300;
+   src: url(../css/font/NotoSansCJKjp-DemiLight.otf);
+}
+@font-face {
+   font-family: 'Noto Sans CJK Japanese';
+   font-style: normal;
+   font-weight: 400;
+   src: url(../css/font/NotoSansCJKjp-Regular.otf);
+ }
+@font-face {
+   font-family: 'Noto Sans CJK Japanese';
+   font-style: normal;
+   font-weight: 500;
+   src: url(../css/font/NotoSansCJKjp-Medium.otf);
+ }
+@font-face {
+   font-family: 'Noto Sans CJK Japanese';
+   font-style: normal;
+   font-weight: 700;
+   src: url(../css/font/NotoSansCJKjp-Bold.otf);
+ }
+@font-face {
+   font-family: 'Noto Sans CJK Japanese';
+   font-style: normal;
+   font-weight: 900;
+   src: url(../css/font/NotoSansCJKjp-Black.otf);
+ }
+
+ @font-face {
+   font-family: 'Azo Sans';
+   font-style: normal;
+   font-weight: 200;
+   src: url(../css/font/AzoSans-Thin.ttf);
+ }
+
+ @font-face {
+   font-family: 'Azo Sans';
+   font-style: normal;
+   font-weight: 200;
+   src: url(../css/font/AzoSans-ThinItalic.ttf);
+ }
+
+ @font-face {
+   font-family: 'Azo Sans';
+   font-style: normal;
+   font-weight: 300;
+   src: url(../css/font/AzoSans-Light.ttf);
+ }
+
+ @font-face {
+   font-family: 'Azo Sans';
+   font-style: normal;
+   font-weight: 300;
+   src: url(../css/font/AzoSans-LightItalic.ttf);
+ }
+
+ @font-face {
+   font-family: 'Azo Sans';
+   font-style: normal;
+   font-weight: 400;
+   src: url(../css/font/AzoSans-Regular.ttf);
+ }
+
+ @font-face {
+   font-family: 'Azo Sans';
+   font-style: normal;
+   font-weight: 400;
+   src: url(../css/font/AzoSans-Italic.ttf);
+ }
+
+ @font-face {
+   font-family: 'Azo Sans';
+   font-style: normal;
+   font-weight: 500;
+   src: url(../css/font/AzoSans-Medium.ttf);
+ }
+
+ @font-face {
+   font-family: 'Azo Sans';
+   font-style: normal;
+   font-weight: 500;
+   src: url(../css/font/AzoSans-MediumItalic.ttf);
+ }
+
+ @font-face {
+   font-family: 'Azo Sans';
+   font-style: normal;
+   font-weight: 700;
+   src: url(../css/font/AzoSans-Bold.ttf);
+ }
+
+ @font-face {
+   font-family: 'Azo Sans';
+   font-style: normal;
+   font-weight: 700;
+   src: url(../css/font/AzoSans-BoldItalic.ttf);
+ }
+
+ @font-face {
+   font-family: 'Azo Sans';
+   font-style: normal;
+   font-weight: 900;
+   src: url(../css/font/AzoSans-Black.ttf);
+ }
+
+ @font-face {
+   font-family: 'Azo Sans';
+   font-style: normal;
+   font-weight: 900;
+   src: url(../css/font/AzoSans-BlackItalic.ttf);
+ }
